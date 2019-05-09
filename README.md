@@ -20,8 +20,8 @@ Massive credits to the following:
 - [Vortex](https://github.com/xvortex)
 - [zecoxao](https://twitter.com/notzecoxao)
 - [SiSTRo](https://github.com/SiSTR0)
+- [SocraticBliss](https://mobile.twitter.com/SocraticBliss)
 - Anonymous
 
 ## Testers
 - [SCORPION](https://twitter.com/SCORPION1399)
-- [SocraticBliss](https://mobile.twitter.com/SocraticBliss)
